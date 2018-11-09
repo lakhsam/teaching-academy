@@ -136,7 +136,7 @@
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-shared</artifactId>
-				<version>2.0.7-RELEASE-SNAPSHOT</version>
+				<version>${project.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>${project.groupId}</groupId>
@@ -147,101 +147,101 @@
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-audit-interface</artifactId>
-				<version>2.0.7-RELEASE-SNAPSHOT</version>
+				<version>${project.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-audit</artifactId>
-				<version>2.0.7-RELEASE-SNAPSHOT</version>
+				<version>${project.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-audit-repository</artifactId>
-				<version>2.0.7-RELEASE-SNAPSHOT</version>
+				<version>${project.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-audit-integration</artifactId>
-				<version>2.0.7-RELEASE-SNAPSHOT</version>
+				<version>${project.version}</version>
 			</dependency>
 
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-user-details-interface</artifactId>
-				<version>2.0.7-RELEASE-SNAPSHOT</version>
+				<version>${project.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-user-details</artifactId>
-				<version>2.0.7-RELEASE-SNAPSHOT</version>
+				<version>${project.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-user-details-repository</artifactId>
-				<version>2.0.7-RELEASE-SNAPSHOT</version>
+				<version>${project.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-user-details-integration</artifactId>
-				<version>2.0.7-RELEASE-SNAPSHOT</version>
+				<version>${project.version}</version>
 			</dependency>
 
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-student-interface</artifactId>
-				<version>2.0.7-RELEASE-SNAPSHOT</version>
+				<version>${project.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-student</artifactId>
-				<version>2.0.7-RELEASE-SNAPSHOT</version>
+				<version>${project.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-student-integration</artifactId>
-				<version>2.0.7-RELEASE-SNAPSHOT</version>
+				<version>${project.version}</version>
 			</dependency>
 
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-courses-interface</artifactId>
-				<version>2.0.7-RELEASE-SNAPSHOT</version>
+				<version>${project.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-courses</artifactId>
-				<version>2.0.7-RELEASE-SNAPSHOT</version>
+				<version>${project.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-courses-repository</artifactId>
-				<version>2.0.7-RELEASE-SNAPSHOT</version>
+				<version>${project.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-courses-integration</artifactId>
-				<version>2.0.7-RELEASE-SNAPSHOT</version>
+				<version>${project.version}</version>
 			</dependency>
 
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-registration-interface</artifactId>
-				<version>2.0.7-RELEASE-SNAPSHOT</version>
+				<version>${project.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-registration</artifactId>
-				<version>2.0.7-RELEASE-SNAPSHOT</version>
+				<version>${project.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-registration-repository</artifactId>
-				<version>2.0.7-RELEASE-SNAPSHOT</version>
+				<version>${project.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-registration-integration</artifactId>
-				<version>2.0.7-RELEASE-SNAPSHOT</version>
+				<version>${project.version}</version>
 			</dependency>
 
 			<dependency>

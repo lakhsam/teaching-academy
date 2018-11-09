@@ -17,10 +17,10 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Maven: com.teachingacademy.academy:academy-student:2.0.6-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: com.teachingacademy.academy:academy-student-interface:2.0.6-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: com.teachingacademy.academy:academy-user-details:2.0.6-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: com.teachingacademy.academy:academy-user-details-interface:2.0.6-SNAPSHOT" level="project" />
+    <orderEntry type="module" module-name="academy-student" />
+    <orderEntry type="module" module-name="academy-student-interface" />
+    <orderEntry type="module" module-name="academy-user-details" />
+    <orderEntry type="module" module-name="academy-user-details-interface" />
     <orderEntry type="module" module-name="academy-shared" />
     <orderEntry type="library" name="Maven: org.springframework:spring-webmvc:4.2.4.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-beans:4.2.4.RELEASE" level="project" />

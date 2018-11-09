@@ -16,7 +16,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="academy-student-interface" />
     <orderEntry type="module" module-name="academy-user-details-interface" />
-    <orderEntry type="library" name="Maven: com.teachingacademy.academy:academy-shared:2.0.7-RELEASE-SNAPSHOT" level="project" />
+    <orderEntry type="module" module-name="academy-shared" />
     <orderEntry type="library" name="Maven: org.springframework:spring-webmvc:4.2.4.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-beans:4.2.4.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-context:4.2.4.RELEASE" level="project" />
