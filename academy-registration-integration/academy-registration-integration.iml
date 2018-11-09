@@ -15,17 +15,17 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="academy-registration-interface" />
-    <orderEntry type="module" module-name="academy-shared" />
-    <orderEntry type="module" module-name="academy-courses-interface" />
+    <orderEntry type="library" name="Maven: com.teachingacademy.academy:academy-shared:2.0.7-RELEASE-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.teachingacademy.academy:academy-courses-interface:2.0.7-RELEASE-SNAPSHOT" level="project" />
     <orderEntry type="module" module-name="academy-student-interface" />
-    <orderEntry type="module" module-name="academy-registration" />
+    <orderEntry type="library" name="Maven: com.teachingacademy.academy:academy-registration:2.0.7-RELEASE-SNAPSHOT" level="project" />
     <orderEntry type="module" module-name="academy-registration-repository" />
     <orderEntry type="module" module-name="academy-student" />
     <orderEntry type="module" module-name="academy-user-details" />
     <orderEntry type="module" module-name="academy-user-details-interface" />
     <orderEntry type="module" module-name="academy-user-details-repository" />
-    <orderEntry type="module" module-name="academy-courses" />
-    <orderEntry type="module" module-name="academy-courses-repository" />
+    <orderEntry type="library" name="Maven: com.teachingacademy.academy:academy-courses:2.0.7-RELEASE-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.teachingacademy.academy:academy-courses-repository:2.0.7-RELEASE-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-webmvc:4.2.4.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-beans:4.2.4.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-context:4.2.4.RELEASE" level="project" />

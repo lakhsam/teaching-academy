@@ -6,7 +6,6 @@
 		<version>2.0.7-SNAPSHOT</version>
 	</parent>
 	<artifactId>academy-student-integration</artifactId>
-  <version>2.0.7-RELEASE-SNAPSHOT</version>
 	<name>Student Integration</name>
 	<description>Teaching Academy Student Integration Tests</description>
 

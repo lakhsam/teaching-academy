@@ -9,8 +9,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="academy-shared" />
-    <orderEntry type="module" module-name="academy-courses-interface" />
+    <orderEntry type="library" name="Maven: com.teachingacademy.academy:academy-shared:2.0.7-RELEASE-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.teachingacademy.academy:academy-courses-interface:2.0.7-RELEASE-SNAPSHOT" level="project" />
     <orderEntry type="module" module-name="academy-student-interface" />
     <orderEntry type="module" module-name="academy-user-details-interface" />
   </component>
