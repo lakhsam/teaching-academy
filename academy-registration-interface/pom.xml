@@ -3,9 +3,10 @@
 	<parent>
 		<groupId>com.teachingacademy.academy</groupId>
 		<artifactId>academy-parent</artifactId>
-		<version>2.0.6-RELEASE</version>
+		<version>2.0.7-SNAPSHOT</version>
 	</parent>
 	<artifactId>academy-registration-interface</artifactId>
+  <version>2.0.7-RELEASE-SNAPSHOT</version>
 	<name>Registration Interfaces</name>
 	<description>Teaching Academy Registration Interfaces</description>
 

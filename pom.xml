@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.teachingacademy.academy</groupId>
 	<artifactId>academy-parent</artifactId>
-	<version>2.0.6-RELEASE</version>
+	<version>2.0.7-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>Teaching Academy Parent</name>
 	<description>Teaching Academy Application - Parent Module</description>
@@ -86,7 +86,7 @@
 		<connection>scm:git:https://github.com/lakhsam/teaching-academy.git</connection>
 		<developerConnection>scm:git:https://github.com/lakhsam/teaching-academy.git</developerConnection>
 		<url>scm:git:https://github.com/lakhsam/teaching-academy.git</url>
-	  <tag>2.0.6-RELEASE</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 	<build>
@@ -136,7 +136,7 @@
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-shared</artifactId>
-				<version>${project.version}</version>
+				<version>2.0.7-RELEASE-SNAPSHOT</version>
 			</dependency>
 			<dependency>
 				<groupId>${project.groupId}</groupId>
@@ -147,101 +147,101 @@
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-audit-interface</artifactId>
-				<version>${project.version}</version>
+				<version>2.0.7-RELEASE-SNAPSHOT</version>
 			</dependency>
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-audit</artifactId>
-				<version>${project.version}</version>
+				<version>2.0.7-RELEASE-SNAPSHOT</version>
 			</dependency>
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-audit-repository</artifactId>
-				<version>${project.version}</version>
+				<version>2.0.7-RELEASE-SNAPSHOT</version>
 			</dependency>
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-audit-integration</artifactId>
-				<version>${project.version}</version>
+				<version>2.0.7-RELEASE-SNAPSHOT</version>
 			</dependency>
 
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-user-details-interface</artifactId>
-				<version>${project.version}</version>
+				<version>2.0.7-RELEASE-SNAPSHOT</version>
 			</dependency>
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-user-details</artifactId>
-				<version>${project.version}</version>
+				<version>2.0.7-RELEASE-SNAPSHOT</version>
 			</dependency>
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-user-details-repository</artifactId>
-				<version>${project.version}</version>
+				<version>2.0.7-RELEASE-SNAPSHOT</version>
 			</dependency>
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-user-details-integration</artifactId>
-				<version>${project.version}</version>
+				<version>2.0.7-RELEASE-SNAPSHOT</version>
 			</dependency>
 
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-student-interface</artifactId>
-				<version>${project.version}</version>
+				<version>2.0.7-RELEASE-SNAPSHOT</version>
 			</dependency>
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-student</artifactId>
-				<version>${project.version}</version>
+				<version>2.0.7-RELEASE-SNAPSHOT</version>
 			</dependency>
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-student-integration</artifactId>
-				<version>${project.version}</version>
+				<version>2.0.7-RELEASE-SNAPSHOT</version>
 			</dependency>
 
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-courses-interface</artifactId>
-				<version>${project.version}</version>
+				<version>2.0.7-RELEASE-SNAPSHOT</version>
 			</dependency>
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-courses</artifactId>
-				<version>${project.version}</version>
+				<version>2.0.7-RELEASE-SNAPSHOT</version>
 			</dependency>
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-courses-repository</artifactId>
-				<version>${project.version}</version>
+				<version>2.0.7-RELEASE-SNAPSHOT</version>
 			</dependency>
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-courses-integration</artifactId>
-				<version>${project.version}</version>
+				<version>2.0.7-RELEASE-SNAPSHOT</version>
 			</dependency>
 
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-registration-interface</artifactId>
-				<version>${project.version}</version>
+				<version>2.0.7-RELEASE-SNAPSHOT</version>
 			</dependency>
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-registration</artifactId>
-				<version>${project.version}</version>
+				<version>2.0.7-RELEASE-SNAPSHOT</version>
 			</dependency>
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-registration-repository</artifactId>
-				<version>${project.version}</version>
+				<version>2.0.7-RELEASE-SNAPSHOT</version>
 			</dependency>
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>academy-registration-integration</artifactId>
-				<version>${project.version}</version>
+				<version>2.0.7-RELEASE-SNAPSHOT</version>
 			</dependency>
 
 			<dependency>
