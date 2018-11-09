@@ -83,9 +83,9 @@
 	</distributionManagement>
 
 	<scm>
-		<connection>scm:https://github.com/lakhsam/teaching-academy.git</connection>
-		<developerConnection>scm:https://github.com/lakhsam/teaching-academy.git</developerConnection>
-		<url>scm:https://github.com/lakhsam/teaching-academy.git</url>
+		<connection>scm:git:https://github.com/lakhsam/teaching-academy.git</connection>
+		<developerConnection>scm:git:https://github.com/lakhsam/teaching-academy.git</developerConnection>
+		<url>scm:git:https://github.com/lakhsam/teaching-academy.git</url>
 	</scm>
 
 	<build>
@@ -107,6 +107,14 @@
 					<configuration>
 						<!-- We need this for a Servlet 3.0 environment, no web.xml anymore! -->
 						<failOnMissingWebXml>false</failOnMissingWebXml>
+					</configuration>
+				</plugin>
+				<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-scm-plugin</artifactId>
+					<version>1.11.1</version>
+					<configuration>
+						<connectionType>connection</connectionType>
 					</configuration>
 				</plugin>
 				<plugin>
